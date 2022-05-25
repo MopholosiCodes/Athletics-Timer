@@ -1,0 +1,10 @@
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\bin\Debug\BusinessLayer.dll
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\bin\Debug\BusinessLayer.pdb
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\obj\Debug\ConsoleClient.csproj.AssemblyReference.cache
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\obj\Debug\ConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\obj\Debug\ConsoleClient.csproj.CopyComplete
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\ConsoleClient\obj\Debug\ConsoleClient.pdb

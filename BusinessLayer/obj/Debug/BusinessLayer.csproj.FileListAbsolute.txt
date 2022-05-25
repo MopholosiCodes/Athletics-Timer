@@ -1,0 +1,6 @@
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\monyo\Desktop\New folder (2)\AthleticsStopwatch\BusinessLayer\obj\Debug\BusinessLayer.pdb
